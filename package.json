@@ -1,0 +1,11 @@
+{
+  "name": "sideonai-contact-test",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test:contact": "node contact-test.mjs"
+  },
+  "devDependencies": {
+    "playwright": "^1.49.0"
+  }
+}

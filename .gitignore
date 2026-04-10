@@ -1,0 +1,6 @@
+node_modules/
+contact-error.png
+.env
+.env.*
+*.log
+.DS_Store
